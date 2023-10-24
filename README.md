@@ -30,12 +30,6 @@ Before running the notebook, ensure you have the following dependencies installe
 - Keras
 - Matplotlib
 
-You can install the required Python packages using pip with the following command:
-
-```bash
-pip install numpy tensorflow keras matplotlib
-
-
 # Graphical Abstract
 
 ![2](https://github.com/miladmasroor/GAN-boosted-Artificial-Neural-Networks/assets/79324919/d579165a-1c8f-4422-89a8-170f9fc8f08b)
